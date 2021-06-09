@@ -16,5 +16,12 @@ With this project I was able to practice my recently learned skills in React.js,
 ## Beyond the course's project
 I improved the app making possible for the note editor to go back to its initial state once a note is submitted.
 
+## Dependencies
+* @material-ui/core
+* @material-ui/icons
+* react
+* react-dom
+* react-scripts
+
 ## Demo
 ![Keeper App Demo](demo/demo.gif)
